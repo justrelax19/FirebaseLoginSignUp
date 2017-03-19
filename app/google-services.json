@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "669664995513",
+    "firebase_url": "https://fireintro-f5c10.firebaseio.com",
+    "project_id": "fireintro-f5c10",
+    "storage_bucket": "fireintro-f5c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669664995513:android:b9740125bc370bd3",
+        "android_client_info": {
+          "package_name": "com.example.anku.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669664995513-571udecsavh4s2riefob8n2cfm58lq29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYcqqg5eEDTWdbHuM6R2tXGniMm6MdmvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
